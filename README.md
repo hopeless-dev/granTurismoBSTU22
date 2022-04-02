@@ -7,7 +7,7 @@
 + Название карты: Gran Turismo 22.
 + Разработчики карты: Дубник & Пилипук & Пастушик & Кровяков. 
 + Размер трека: 2.5000e+01 x 2.5000e+01 x 1.0000e+00.
-+ Ссылка на модели и карту: [перейти](https://www.dropbox.com/sh/4r71bg818rxy846/AAAkS_mdBmoIi9cQpAiK8R80a?dl=0)
++ Ссылка на модели и карту: [перейти](https://disk.yandex.by/d/bhKJrZasoSrFeA)
 ***
 # EN: 
 Repository with models, map and regulations of the "Gran Turismo BSTU22" racing simulation tournament.\
@@ -17,4 +17,4 @@ The developers are a group of AI-16, Faculty of Electronic Information Systems, 
 + Map name: Gran Turismo 22.
 + Map developers: Dubnik & Pilipuk & Pastuchik & Krovyakov.
 + Track size: 2.5000e+01 x 2.5000e+01 x 1.0000e+00.
-+ Link to models and map: [follow](https://www.dropbox.com/sh/4r71bg818rxy846/AAAkS_mdBmoIi9cQpAiK8R80a?dl=0)
++ Link to models and map: [follow](https://disk.yandex.by/d/bhKJrZasoSrFeA)
